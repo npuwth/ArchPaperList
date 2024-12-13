@@ -34,32 +34,32 @@ A list of classic and recent papers for Computer Architecture research.
 ### 2. Microarchitecture
 
 #### 2.1. Branch
-- [22] Branch Target Buffer Organizations, 2023
-- [23] AVM-BTB: Adaptive and Vritualized Multi-level Branch Target Buffer, 2024
+- [22] Branch Target Buffer Organizations, 2023, MICRO
+- [23] AVM-BTB: Adaptive and Vritualized Multi-level Branch Target Buffer, 2024, ISCA
 
 #### 2.2. Rename
-- [24] Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors, 2023
-- [25] Speculative Register Reclamation, 2023
+- [24] Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors, 2023, MICRO
+- [25] Speculative Register Reclamation, 2023, HPCA
 
 #### 2.3. Schedule
-- [26] Reconstructing Out-of-Order Issue Queue, 2022
-- [27] CRISP: critical slice prefetching, 2022
-- [28] Orinoco: Ordered Issue and Unordered Commit with Non-Collapsible Queues
+- [26] Reconstructing Out-of-Order Issue Queue, 2022, MICRO
+- [27] CRISP: critical slice prefetching, 2022, ASPLOS
+- [28] Orinoco: Ordered Issue and Unordered Commit with Non-Collapsible Queues, ISCA
 
 #### 2.4. Load/Store Unit
-- [29] Effective Context-Sensitive Memory Dependence Prediction, 2024
+- [29] Effective Context-Sensitive Memory Dependence Prediction, 2024, HPCA
 
 #### 2.4. Others
-- [30] Register file prefetching, 2022
-- [31] Decoupled Vector Runhead, 2023
-- [32] Simultaneous and Heterogenous Multithreading, 2023
+- [30] Register file prefetching, 2022, ISCA
+- [31] Decoupled Vector Runhead, 2023, MICRO
+- [32] Simultaneous and Heterogenous Multithreading, 2023, MICRO
 
 #### 2.5 Processors
 - [33] The Rocket Chip Generator, 2016
-- [34] Xuantie-910: A Commercial Multi-Core 12-Stage Pipeline Out-of-Order 64-bit High Performance RISC-V Processor with Vector Extension, 2020
+- [34] Xuantie-910: A Commercial Multi-Core 12-Stage Pipeline Out-of-Order 64-bit High Performance RISC-V Processor with Vector Extension, 2020, ISCA
 - [35] SonicBOOM: The 3rd Generation Berkeley Out-of-Order Machine, 2020
-- [36] Towards Developing High Performance RISC-V Processors Using Agile Methodology, 2022
-- [37] "Zen 4": The AMD 5nm 5.7GHz x86-64 Microprocessor Core, 2023
+- [36] Towards Developing High Performance RISC-V Processors Using Agile Methodology, 2022, MICRO
+- [37] "Zen 4": The AMD 5nm 5.7GHz x86-64 Microprocessor Core, 2023, ISSCC
 
 ### 3. Memory System
 
