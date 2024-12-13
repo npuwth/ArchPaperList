@@ -98,6 +98,8 @@ A list of classic and recent papers for Computer Architecture research.
 
 ### 4. Design and Analysis
 
+> Design and Analysis are two sides of the same coin.
+
 #### 4.1. Platform & Tools
 - [*] McPAT: An integrated power, area, and timing modeling framework for multicore and manycore architectures, 2009, MICRO
 - [*] CACTI-P: Architecture-level modeling for srambased structures with advanced leakage reduction techniques, 2011, ICCAD
