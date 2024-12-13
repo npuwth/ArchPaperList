@@ -73,14 +73,32 @@ A list of classic and recent papers for Computer Architecture research.
 ### 3. Memory System
 
 #### 3.1. Cache
+- [*] Spatial Memory Streaming, 2006, ISCA
+- [*] Bypass and Insertion Algorithms for Exclusive Last-level Caches, 2011, ISCA
+- [*] Bingo Spatial Data Prefetcher, 2019, HPCA
+- [*] Classifying Memory Access Patterns for Prefetching, 2020, ASPLOS
+- [*] Bouquet of Instruction Pointers: Instruction Pointer Classifier-based Spatial Hardware Prefetching, 2020, ISCA
+- [*] Pythia: A Customizable Hardware Prefetching Framework Using Online Reinforcement Learning, 2021, MICRO
+- [*] Hermes: Accelerating Long-Latency Load Requests via Perceptron-Based Off-Chip Load Prediction, 2022, MICRO
+- [*] Berti: an Accurate Local-Delta Data Prefetcher, 2022, MICRO
+- [*] Reducing Load Latency with Cache Level Prediction, 2022, HPCA
+- [*] CLIP: Load Criticality based Data Prefetching for Bandwidth-constrained Many-core Systems, 2023, MICRO
+- [*] EMISSARY: Enhanced Miss Awareness Replacement Policy for L2 Instruction Caching, 2023, ISCA
+- [*] Compression-Aware and Performance-Efficient Insertion Policies for Long-Lasting Hybrid LLCs, 2023, HPCA
+- [*] Differential-Matching Prefetcher for Indirect Memory Access, 2024, HPCA
 
 #### 3.2. MMU
+- [*] Mosaic Pages: Big TLB Reach with Small Pages, 2023, ASPLOS
+- [*] Victima: Drastically Increasing Address Translation Reach by Leveraging Underutilized Cache Resources, 2023, MICRO
+- [*] Memory-Efficient Hashed Page Tables, 2023, HPCA
+- [*] Contiguitas: The Pursuit of Physical Memory Contiguity in Datacenters, 2023, ISCA
 
 #### 3.3. DRAM
+- [*] NOMAD: Enabling Non-blocking OS-managed DRAM Cache via Tag-Data Decoupling, 2023, HPCA
 
 ### 4. Design and Analysis
 
-#### 4.1. Platform
+#### 4.1. Platform & Tools
 - [*] McPAT: An integrated power, area, and timing modeling framework for multicore and manycore architectures, 2009, MICRO
 - [*] CACTI-P: Architecture-level modeling for srambased structures with advanced leakage reduction techniques, 2011, ICCAD
 - [*] SPEC CPU2017 Benchmark Tools, 2017
